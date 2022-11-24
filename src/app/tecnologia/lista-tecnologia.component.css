@@ -1,0 +1,17 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    margin-top: 40px;
+}
+
+p {
+    text-align: center;
+}
+
+i, .fw-normal {
+    display: flex;
+    justify-content: center;
+}
